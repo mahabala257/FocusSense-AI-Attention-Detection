@@ -66,6 +66,11 @@ python view_report.py
 * Graph Reports (PNG + HTML)
 
 ---
+## 💡 Real-world Use Cases
+- Student focus monitoring
+- Productivity tracking
+- Online learning analytics
+---
 
 ## 🔮 Future Improvements
 
