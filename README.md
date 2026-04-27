@@ -81,8 +81,3 @@ python view_report.py
 * ML-based prediction
 * Mobile app integration
 
----
-
-## 👨‍💻 Author
-
-Mahalakshmi B (mahabala257)
